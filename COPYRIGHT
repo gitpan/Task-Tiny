@@ -12,17 +12,17 @@ Files: Changes
 Copyright: Copyright 2013 Toby Inkster.
 License: GPL-1.0+ or Artistic-1.0
 
-Files: CONTRIBUTING
- INSTALL
- LICENSE
-Copyright: Unknown
-License: Unknown
-
 Files: README
  lib/Task/Tiny.pm
  t/01basic.t
 Copyright: This software is copyright (c) 2013 by Toby Inkster.
 License: GPL-1.0+ or Artistic-1.0
+
+Files: CONTRIBUTING
+ INSTALL
+ LICENSE
+Copyright: Unknown
+License: Unknown
 
 Files: COPYRIGHT
  CREDITS

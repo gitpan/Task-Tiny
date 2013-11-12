@@ -137,7 +137,7 @@
    "provides" : {
       "Task::Tiny" : {
          "file" : "lib/Task/Tiny.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -155,5 +155,5 @@
          "web" : "https://github.com/tobyink/p5-task-tiny"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }

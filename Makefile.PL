@@ -79,7 +79,7 @@ my $meta = {
                            test => { requires => { "Test::More" => 0.96 } },
                          },
   "provides"          => {
-                           "Task::Tiny" => { file => "lib/Task/Tiny.pm", version => 0.001 },
+                           "Task::Tiny" => { file => "lib/Task/Tiny.pm", version => 0.002 },
                          },
   "release_status"    => "stable",
   "resources"         => {
@@ -89,7 +89,7 @@ my $meta = {
                            repository   => { type => "git", web => "https://github.com/tobyink/p5-task-tiny" },
                            X_identifier => "http://purl.org/NET/cpan-uri/dist/Task-Tiny/project",
                          },
-  "version"           => 0.001,
+  "version"           => 0.002,
 };
 
 if ($ENV{MM_INSTALL_FEATURES})
